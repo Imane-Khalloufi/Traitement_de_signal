@@ -13,6 +13,8 @@ Ce projet a pour but de mettre en pratique les concepts théoriques de traitemen
   ![images/periodigrammes_fenetres.png](images/periodigrammes_fenetres.png)
 - **Partie 4 :** Application sur un signal réel. Analyse spectrale et filtrage numérique d'un signal issu d'un ventilateur (fréquence d'échantillonnage de 5120 Hz).
 
+![images/signal_genere.png](images/signal_genere.png)
+
 ##  Structure du Dépôt
 
 - `GroupeE-H_Ennedoui_Khalloufi_TNS_TP1_AnalyseSpectrale.m` : Script principal complété pour le TP1.
