@@ -9,6 +9,8 @@ Ce dépôt contient les travaux pratiques de Traitement Numérique du Signal (TN
 
 Ce projet a pour but de mettre en pratique les concepts théoriques de traitement du signal :
 - **Partie 1 :** Analyse spectrale d'un signal sinusoïdal bruité, en testant différents paramètres et méthodes d'estimation spectrale (périodogramme, méthode de Welch, etc.).
+
+  ![images/periodigrammes_fenetres.png](images/periodigrammes_fenetres.png)
 - **Partie 4 :** Application sur un signal réel. Analyse spectrale et filtrage numérique d'un signal issu d'un ventilateur (fréquence d'échantillonnage de 5120 Hz).
 
 ##  Structure du Dépôt
