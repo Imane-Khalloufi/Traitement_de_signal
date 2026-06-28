@@ -1,8 +1,7 @@
 # Traitement_de_signal
 Implémentation MATLAB pour l'analyse spectrale de signaux bruités et le filtrage numérique d'un signal réel.
 
-Travaux Pratiques : Traitement Numérique du Signal (TNS) - Analyse Spectrale
-
+![images/periodigramme.png](images/periodigramme.png)
 Ce dépôt contient les travaux pratiques de Traitement Numérique du Signal (TNS) réalisés à l'ENSEEIHT, axés sur l'analyse spectrale et le filtrage numérique. 
 
 ##  Description du Projet
